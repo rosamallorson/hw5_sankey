@@ -1,2 +1,3 @@
 # hw5_sankey
-[Link Text](file:///Users/rosamallorson/Downloads/sankey.html)
+
+[Click here to view the Sankey diagram](file:///Users/rosamallorson/Downloads/sankey.html)
